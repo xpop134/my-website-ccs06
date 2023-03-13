@@ -1,0 +1,13 @@
+
+body {
+  background-image: url('https://c1.wallpaperflare.com/preview/532/545/222/moon-planet-space-universe.jpg');
+  background-size: 100%
+}
+
+table, tr, td {
+  border-collapse: collapse;
+}
+
+.logo {
+  padding: 10px;
+}
